@@ -21,9 +21,9 @@ body{
 
 }
 #btn-translate{
-    backaground-color:#FBBF24;
+    backaground-color:#dfae33;
     border: none;
-    padding: 0.5rem;
+    padding: 0.5rem5rem;
     border-radius: 0.2rem;
     color:black;
     margin-bottom: 1rem;
@@ -54,10 +54,6 @@ h3>a{
     text-decoration: none
 }
 
-.end{
-    background-color: var(--blue);
-    
-}
 
 textarea {
     width: 62%;
@@ -83,3 +79,25 @@ textarea {
     right: 16px;
     font-size: 18px;
   }
+
+  .footer {
+
+    background-color:#FBBF24;
+    padding:2rem 3rem;
+    text-align: center;
+    background-size:cover;
+    position:absolute;
+    width:100%;
+  }
+
+
+
+
+ .linkfooter {
+     text-decoration: none;
+     color: white;
+     padding:0 5vh;
+
+
+
+ }
